@@ -38,6 +38,7 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 # 📖 Visualization 
 
+![image](https://user-images.githubusercontent.com/95841292/202914096-ce821c94-d81b-430c-a794-fe7491fc02d1.png)
 
 
 
@@ -61,6 +62,7 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 # 📋 Execution Intruction
 
+The given IPython Notebook can be either downloaded to be run on your local Jupyter Notebook or can be directly run on Google Colab.
 
 
 # 📜 Credits
