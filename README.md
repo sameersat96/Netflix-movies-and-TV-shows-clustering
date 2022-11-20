@@ -69,7 +69,7 @@ The given IPython Notebook can be either downloaded to be run on your local Jupy
 
 Sameer Satpute | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
 
-special thanks to Mahima Phalkey
+Special thanks to Mahima Phalkey and AlmaBetter
 
 Contact me for Data Science Project Collaborations
 
