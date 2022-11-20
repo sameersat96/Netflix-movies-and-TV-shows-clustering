@@ -71,7 +71,7 @@ Sameer Satpute | Data Scientist | Machine Learning Engineer | Deep Learning enth
 
 Contact me for Data Science Project Collaborations
 
-![image](www.linkedin.com/in/sameersatpute) ![image](https://user-images.githubusercontent.com/95841292/202913986-09b8fd6d-a30b-4a9c-8a52-28438c0c508f.png) ![image](https://user-images.githubusercontent.com/95841292/202914003-335fef55-cb51-47f4-80a6-1b450cff024a.png) ![image](https://user-images.githubusercontent.com/95841292/202914017-7cf57a90-f740-476b-bd3d-8bdd376bf831.png)
+[![image](www.linkedin.com/in/sameersatpute)](https://www.linkedin.com/in/nadeeha-salam/) ![image](https://user-images.githubusercontent.com/95841292/202913986-09b8fd6d-a30b-4a9c-8a52-28438c0c508f.png) ![image](https://user-images.githubusercontent.com/95841292/202914003-335fef55-cb51-47f4-80a6-1b450cff024a.png) ![image](https://user-images.githubusercontent.com/95841292/202914017-7cf57a90-f740-476b-bd3d-8bdd376bf831.png)
 
 
 # 📚 References
