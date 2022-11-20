@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/95841292/181676154-4c6e72ed-ae2d-4ae1-91c6-7c450768fb4e.png)
 
 
-#📖 **Introduction**
+# 📖 **Introduction**
 
 Netflix,Inc. American subscription streamigservice and production company. Launched on August 29, 1997, it offers a film and television series library through distribution deals as well as its own productions, known as Originals.
 It is the second largest entertainment/media company by market capitalization.
@@ -69,7 +69,7 @@ Sameer Satpute | Data Scientist | Machine Learning Engineer | Deep Learning enth
 
 Contact me for Data Science Project Collaborations
 
-LinkedIn Badge GitHub Badge Medium Badge Resume Badge
+![image](https://user-images.githubusercontent.com/95841292/202913954-203946fe-5467-476a-b617-cb5a1229261c.png) GitHub Badge Medium Badge Resume Badge
 
 
 # 📚 References
