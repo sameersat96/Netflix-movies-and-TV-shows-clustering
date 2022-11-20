@@ -69,7 +69,7 @@ Sameer Satpute | Data Scientist | Machine Learning Engineer | Deep Learning enth
 
 Contact me for Data Science Project Collaborations
 
-![image](https://user-images.githubusercontent.com/95841292/202913954-203946fe-5467-476a-b617-cb5a1229261c.png) GitHub Badge Medium Badge Resume Badge
+![image](https://user-images.githubusercontent.com/95841292/202913954-203946fe-5467-476a-b617-cb5a1229261c.png) ![image](https://user-images.githubusercontent.com/95841292/202913986-09b8fd6d-a30b-4a9c-8a52-28438c0c508f.png) ![image](https://user-images.githubusercontent.com/95841292/202914003-335fef55-cb51-47f4-80a6-1b450cff024a.png) ![image](https://user-images.githubusercontent.com/95841292/202914017-7cf57a90-f740-476b-bd3d-8bdd376bf831.png)
 
 
 # 📚 References
