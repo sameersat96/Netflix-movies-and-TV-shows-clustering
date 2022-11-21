@@ -38,7 +38,14 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 # 📖 Visualization 
 
+1) Content count
 ![image](https://user-images.githubusercontent.com/95841292/202914096-ce821c94-d81b-430c-a794-fe7491fc02d1.png)
+
+2) Distribution of movies and shows 
+![newplot](https://user-images.githubusercontent.com/95841292/202967411-7e533a16-039f-4d4b-9c05-691a3a18451d.png)
+
+3) wordcloud for genre
+![image](https://user-images.githubusercontent.com/95841292/202967752-efe27f73-adfc-434e-9d9c-817bf9123b5b.png)
 
 
 
