@@ -82,3 +82,7 @@ Contact me for Data Science Project Collaborations
 
 
 # 📚 References
+
+1.  https://towardsdatascience.com/netflix-recommender-system-a-big-data-case-study-19cfa6d56ff5
+2.  https://medium.com/analytics-vidhya/netflix-movies-and-tvshows-exploratory-data-analysis-eda-and-visualization-using-python-80753fcfcf7
+3.  https://www.kaggle.com/datasets/satpreetmakhija/netflix-movies-and-tv-shows-2021
